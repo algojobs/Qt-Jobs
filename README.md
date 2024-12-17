@@ -1,11 +1,16 @@
 # Qt Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Qt Jobs](https://algojobs.io/jobs/qt)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/16/2024 | [UI Software Engineer #151](https://algojobs.io/jobs/2599684) | [AEye, Inc](https://algojobs.io/company/aeyeinc/) | $110K - $130K | Dublin, CA |
+| 12/16/2024 | [Senior C++ Software Engineer](https://algojobs.io/jobs/2599842) | [Formlabs](https://algojobs.io/company/formlabs/) | N/A | Budapest, Hungary |
+| 12/15/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2593951) | [Philips](https://algojobs.io/company/philips/) | N/A | Haifa, Israel |
+| 12/13/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2589537) | [Peraton](https://algojobs.io/company/peraton/) | $135K - $216K | Quantico, VA, US |
+| 12/13/2024 | [Entwicklungsingenieur (m/w/d) GUI Software](https://algojobs.io/jobs/2595033) | [Avantor](https://algojobs.io/company/vwr/) | N/A | Waldbüttelbrunn, DEU, Germany |
 | 12/12/2024 | [Associate Software Engineer](https://algojobs.io/jobs/2572901) | [Catapult Sports](https://algojobs.io/company/catapultsports/) | N/A | London, UK |
 | 12/12/2024 | [Software Engineer](https://algojobs.io/jobs/2578301) | [Leonardo](https://algojobs.io/company/leonardocompany/) | N/A | IT - La Spezia - Valdilocchi, Italy |
 | 12/12/2024 | [Senior Software Engineer (R&D)](https://algojobs.io/jobs/2577807) | [QuidelOrtho](https://algojobs.io/company/orthoclinical/) | $100K - $120K | US - NY - Rochester, United States of America |
@@ -13,7 +18,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/10/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2556394) | [Scientific Research Corporation](https://algojobs.io/company/scires/) | $111K - $186K | Atlanta |
 | 12/10/2024 | [Senior Software Engineer (R&D)](https://algojobs.io/jobs/2552080) | [QuidelOrtho](https://algojobs.io/company/orthoclinical/) | $100K - $115K | US - NY - Rochester, United States of America |
 | 12/09/2024 | [Senior Software Engineer - UI Software (C++/Python)](https://algojobs.io/jobs/2533855) | [Mendaera, Inc.](https://algojobs.io/company/mendaerainc/) | $156K - $185K | San Mateo, CA |
-| 12/09/2024 | [Software Engineer (Python, C++)](https://algojobs.io/jobs/2545301) | [Qode](https://algojobs.io/company/qodeworld/) | N/A | Hanoi, Hanoi, Vietnam |
 | 12/09/2024 | [Senior Qt and C++ Developer - TiMax](https://algojobs.io/jobs/2545525) | [The Focusrite Group](https://algojobs.io/company/focusrite/) | N/A | London, England, United Kingdom (Hybrid) |
 | 12/06/2024 | [Senior Software Engineer, C++ and Qt](https://algojobs.io/jobs/2526094) | [NVIDIA](https://algojobs.io/company/nvidia/) | N/A | Germany, Remote / Germany, Munich |
 | 12/04/2024 | [Senior Embedded Software Engineer](https://algojobs.io/jobs/2506062) | [Ceribell, Inc](https://algojobs.io/company/ceribell/) | $140K - $170K | Sunnyvale, California, United States |
@@ -46,13 +50,13 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/08/2024 | [Sr. C++ Software Engineer – Maps SDKs](https://algojobs.io/jobs/2167491) | [Esri](https://algojobs.io/company/esri/) | N/A | Cardiff, UK |
 | 11/08/2024 | [QT Developer](https://algojobs.io/jobs/2194575) | [Interactive Brokers](https://algojobs.io/company/ibkr/) | $130K - $180K | New York, NY |
 | 11/08/2024 | [QT Developer](https://algojobs.io/jobs/2194578) | [Interactive Brokers](https://algojobs.io/company/ibkr/) | N/A | Greenwich, CT |
+| 11/08/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2584868) | [Velo3D](https://algojobs.io/company/velo3d/) | $190K - $200K | Remote |
 | 11/07/2024 | [Software Engineer, Autonomy Visualization](https://algojobs.io/jobs/2148190) | [Nuro](https://algojobs.io/company/nuro/) | $138K - $207K | Mountain View, California (HQ) |
 | 11/07/2024 | [Software Engineer](https://algojobs.io/jobs/2160206) | [Applied Materials](https://algojobs.io/company/amat/) | N/A | Bangalore,IND, India |
 | 11/07/2024 | [Sr. Software Engineer, Localization Engineering](https://algojobs.io/jobs/2172907) | [Autodesk](https://algojobs.io/company/autodesk/) | $98K - $144K | Vancouver, BC, CAN, Canada |
 | 11/05/2024 | [Software Engineer SDK](https://algojobs.io/jobs/2222337) | [MemryX](https://algojobs.io/company/memryx/) | N/A | Ann Arbor, Michigan |
 | 11/05/2024 | [Embedded Software Engineer](https://algojobs.io/jobs/2145743) | [Johnson Controls](https://algojobs.io/company/jci/) | N/A | Brossard-Quebec-Canada |
 | 11/01/2024 | [Software Engineer - C++](https://algojobs.io/jobs/2126756) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | EMEA - Poland - Kraków - Lubomirskiego |
-| 10/31/2024 | [Senior/Staff/Principal Fullstack/Backend Software Engineer](https://algojobs.io/jobs/2112056) | [Horizon Surgical Systems, Inc.](https://algojobs.io/company/horizonsurgicalsystems/) | N/A | Los Angeles, California |
 | 10/31/2024 | [Graphics Tools Software Engineer Intern](https://algojobs.io/jobs/2117701) | [NVIDIA](https://algojobs.io/company/nvidia/) | N/A | China, Shanghai |
 | 10/30/2024 | [Software Engineer, HMI & Embedded Linux (Qt)](https://algojobs.io/jobs/2104195) | [Harbinger Motors Inc.](https://algojobs.io/company/harbingermotors/) | $160K - $180K | Garden Grove, CA |
 | 10/29/2024 | [Command Line Interface (CLI) Developer](https://algojobs.io/jobs/2100067) | [Futurex](https://algojobs.io/company/futurex-1/) | N/A | Bulverde, Texas, United States |
@@ -61,7 +65,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/23/2024 | [Senior Software Development Engineer - Adobe Substance 3D Painter](https://algojobs.io/jobs/2061143) | [ALEU-Adobe Systems Europe Limited](https://algojobs.io/company/adobe/) | N/A | Clermont-Ferrand, France |
 | 10/22/2024 | [Software Development Engineer II, C++, Nav SDK Core](https://algojobs.io/jobs/2049235) | [Mapbox](https://algojobs.io/company/mapbox/) | N/A | Mapbox Minsk |
 | 10/21/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2034842) | [Safran Passenger Innovations](https://algojobs.io/company/safranpassengerinnovations/) | $129K - $166K | Brea, California, United States (Hybrid) |
-| 10/18/2024 | [Software Engineer](https://algojobs.io/jobs/2032008) | [Onto Innovation](https://algojobs.io/company/onto/) | N/A | Wilmington-MA (Upton), United States of America |
-| 10/18/2024 | [Software/Principal Software Engineer (AHT)](https://algojobs.io/jobs/2034435) | [Northrop Grumman](https://algojobs.io/company/ngc/) | $83K - $124K | United States-Rhode Island-Middletown, United States of America |
-| 10/17/2024 | [C++ Software Engineer](https://algojobs.io/jobs/2024690) | [NIKI Digital Engineering](https://algojobs.io/company/niki-mepe/) | N/A | Katsikas, Ioannina, Greece (Hybrid) |
-| 10/16/2024 | [Software Engineer](https://algojobs.io/jobs/2008766) | [Distran](https://algojobs.io/company/distran/) | N/A | Zurich |

@@ -1,11 +1,15 @@
 # Qt Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Qt Jobs](https://algojobs.io/jobs/qt)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 03/31/2025 | [Staff Embedded Software Engineer](https://algojobs.io/jobs/3640123) | [Ceribell, Inc](https://algojobs.io/company/ceribell/) | $174K - $193K | Sunnyvale, California, United States |
+| 03/31/2025 | [Software Engineer II](https://algojobs.io/jobs/3646966) | [Cadence](https://algojobs.io/company/cadence/) | N/A | CORK 01, Ireland |
+| 03/31/2025 | [Software Engineer II](https://algojobs.io/jobs/3646967) | [Cadence](https://algojobs.io/company/cadence/) | N/A | CORK 01, Ireland |
+| 03/31/2025 | [Lead Software Engineer](https://algojobs.io/jobs/3646965) | [Cadence](https://algojobs.io/company/cadence/) | N/A | CORK 01, Ireland |
 | 03/28/2025 | [Senior Software Engineer, PreForm 3D Application](https://algojobs.io/jobs/3611816) | [Formlabs](https://algojobs.io/company/formlabs/) | N/A | Budapest, Hungary |
 | 03/28/2025 | [Software Engineer II](https://algojobs.io/jobs/3628219) | [Cadence](https://algojobs.io/company/cadence/) | N/A | EDINBURGH 01, United Kingdom |
 | 03/27/2025 | [Senior iOS Developer](https://algojobs.io/jobs/3615715) | [Specialized Asia Pacific Pte. Ltd.](https://algojobs.io/company/specialized/) | $125K - $159K | United States, CA, Morgan Hill (Office), United States of America |
@@ -65,13 +69,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/05/2025 | [Engineer, Software Development Engineering](https://algojobs.io/jobs/3063564) | [Analog Devices, Inc.](https://algojobs.io/company/analogdevices/) | N/A | Germany, Hamburg |
 | 02/05/2025 | [C++ Software Developer](https://algojobs.io/jobs/3054773) | [NOVOMATIC Technologies Poland](https://algojobs.io/company/novomatic/) | N/A | Zabierzów, Kraków County, Poland (Hybrid) |
 | 02/03/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3035777) | [Ultra](https://algojobs.io/company/ultra/) | N/A | Chantilly, VA, United States, United States of America |
-| 01/31/2025 | [Software Development Engineer II, C++, Automotive Integration](https://algojobs.io/jobs/3018461) | [Mapbox](https://algojobs.io/company/mapbox/) | N/A | Mapbox Japan |
-| 01/30/2025 | [Software Engineer, Drone Applications](https://algojobs.io/jobs/3003374) | [Auterion](https://algojobs.io/company/auterion/) | N/A | Zurich, Switzerland |
-| 01/29/2025 | [Advanced Software Engineer](https://algojobs.io/jobs/2997369) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $110K - $122K | RI-Middletown, United States |
-| 01/29/2025 | [Staff Software Engineer, C++](https://algojobs.io/jobs/2991794) | [Snap](https://algojobs.io/company/snapchat/) | $222K - $333K | Los Angeles, California / New York, New York / Seattle, Washington |
-| 01/29/2025 | [FullStack Developer - (C++/Qt/QML)](https://algojobs.io/jobs/2980631) | [Airbus](https://algojobs.io/company/ag/) | N/A | Bangalore Area, India |
-| 01/29/2025 | [FullStack Developer - (C++/Qt/QML)](https://algojobs.io/jobs/2980626) | [Airbus](https://algojobs.io/company/ag/) | N/A | Bangalore Area, India |
-| 01/29/2025 | [FullStack Developer - (C++/Qt/QML)](https://algojobs.io/jobs/2980646) | [Airbus](https://algojobs.io/company/ag/) | N/A | Bangalore Area, India |
-| 01/28/2025 | [Senior Pipeline Developer](https://algojobs.io/jobs/2976269) | [Epic Games](https://algojobs.io/company/epicgames/) | $164K - $240K | Vancouver,British Columbia,Canada |
-| 01/28/2025 | [Senior Pipeline Developer](https://algojobs.io/jobs/2976240) | [Epic Games](https://algojobs.io/company/epicgames/) | $182K - $267K | BLANK,BLANK,Multiple Locations |
-| 01/28/2025 | [Senior Pipeline Developer](https://algojobs.io/jobs/2976236) | [Epic Games](https://algojobs.io/company/epicgames/) | N/A | Cary,North Carolina,United States |
